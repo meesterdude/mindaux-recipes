@@ -68,3 +68,7 @@ Then it goes on to define our header title, and starts the centering that will a
 All this does is close the center tag we opened in the header, and add a footer image that we defined styling for in the header.
 
 With these changes, now all items will be styled the same.
+
+## Further Reading
+
+https://graphicfusiondesign.com/design/creating-fancy-css3-fade-in-animations-on-page-load/
