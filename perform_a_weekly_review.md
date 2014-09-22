@@ -20,7 +20,7 @@ and expand on the tags to make finding things easier.
 
 ## Step 3: Do A Brain Dump
 
-Having reviewed everything in MindAUX, now is a good time to create the things that aren't.
+Having reviewed everything that's in MindAUX, now is a good time to create the things that aren't.
 
 In the search box, you can do things like this to help ease entry:
 
